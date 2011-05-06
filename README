@@ -1,0 +1,1 @@
+ObjC Categories for NSBezierPath which implement Douglas-Peucker and Schneider FitCurves algorithms to reduce the element count and increase the drawing performance.
